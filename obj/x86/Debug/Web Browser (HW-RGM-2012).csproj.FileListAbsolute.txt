@@ -1,0 +1,54 @@
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - backup with threads n bgw - Copy\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web Browser (HW-RGM-2012).exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - backup with threads n bgw - Copy\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web Browser (HW-RGM-2012).pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - backup with threads n bgw\Web Browser (HW-RGM-2012)\bin\Debug\Web Browser (HW-RGM-2012).exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - backup with threads n bgw\Web Browser (HW-RGM-2012)\bin\Debug\Web Browser (HW-RGM-2012).pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - backup with threads n bgw\Web Browser (HW-RGM-2012)\obj\x86\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - backup with threads n bgw\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web_Browser__HW_RGM_2012_.addfav.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - backup with threads n bgw\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web_Browser__HW_RGM_2012_.editfav.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - backup with threads n bgw\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web_Browser__HW_RGM_2012_.favorites.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - backup with threads n bgw\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web_Browser__HW_RGM_2012_.WebXplorer.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - backup with threads n bgw\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web_Browser__HW_RGM_2012_.Properties.Resources.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - backup with threads n bgw\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web_Browser__HW_RGM_2012_.settings.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - backup with threads n bgw\Web Browser (HW-RGM-2012)\obj\x86\Debug\GenerateResource.read.1.tlog
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - backup with threads n bgw\Web Browser (HW-RGM-2012)\obj\x86\Debug\GenerateResource.write.1.tlog
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - backup with threads n bgw\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web Browser (HW-RGM-2012).exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - backup with threads n bgw\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web Browser (HW-RGM-2012).pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012)\Web Browser (HW-RGM-2012)\bin\Debug\Web Browser (HW-RGM-2012).exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012)\Web Browser (HW-RGM-2012)\bin\Debug\Web Browser (HW-RGM-2012).pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012)\Web Browser (HW-RGM-2012)\obj\x86\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012)\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web_Browser__HW_RGM_2012_.addfav.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012)\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web_Browser__HW_RGM_2012_.editfav.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012)\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web_Browser__HW_RGM_2012_.favorites.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012)\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web_Browser__HW_RGM_2012_.WebXplorer.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012)\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web_Browser__HW_RGM_2012_.Properties.Resources.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012)\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web_Browser__HW_RGM_2012_.settings.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012)\Web Browser (HW-RGM-2012)\obj\x86\Debug\GenerateResource.read.1.tlog
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012)\Web Browser (HW-RGM-2012)\obj\x86\Debug\GenerateResource.write.1.tlog
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012)\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web Browser (HW-RGM-2012).exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012)\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web Browser (HW-RGM-2012).pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - redesign\Web Browser (HW-RGM-2012)\bin\Debug\Web Browser (HW-RGM-2012).exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - redesign\Web Browser (HW-RGM-2012)\bin\Debug\Web Browser (HW-RGM-2012).pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - redesign\Web Browser (HW-RGM-2012)\obj\x86\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - redesign\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web_Browser__HW_RGM_2012_.addfav.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - redesign\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web_Browser__HW_RGM_2012_.editfav.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - redesign\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web_Browser__HW_RGM_2012_.favorites.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - redesign\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web_Browser__HW_RGM_2012_.WebXplorer.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - redesign\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web_Browser__HW_RGM_2012_.Properties.Resources.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - redesign\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web_Browser__HW_RGM_2012_.settings.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - redesign\Web Browser (HW-RGM-2012)\obj\x86\Debug\GenerateResource.read.1.tlog
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - redesign\Web Browser (HW-RGM-2012)\obj\x86\Debug\GenerateResource.write.1.tlog
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - redesign\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web Browser (HW-RGM-2012).exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - redesign\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web Browser (HW-RGM-2012).pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - build 10.5\Web Browser (HW-RGM-2012)\bin\Debug\Web Browser (HW-RGM-2012).exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - build 10.5\Web Browser (HW-RGM-2012)\bin\Debug\Web Browser (HW-RGM-2012).pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - build 10.5\Web Browser (HW-RGM-2012)\obj\x86\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - build 10.5\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web_Browser__HW_RGM_2012_.addfav.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - build 10.5\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web_Browser__HW_RGM_2012_.editfav.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - build 10.5\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web_Browser__HW_RGM_2012_.favorites.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - build 10.5\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web_Browser__HW_RGM_2012_.WebXplorer.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - build 10.5\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web_Browser__HW_RGM_2012_.Properties.Resources.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - build 10.5\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web_Browser__HW_RGM_2012_.settings.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - build 10.5\Web Browser (HW-RGM-2012)\obj\x86\Debug\GenerateResource.read.1.tlog
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - build 10.5\Web Browser (HW-RGM-2012)\obj\x86\Debug\GenerateResource.write.1.tlog
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - build 10.5\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web Browser (HW-RGM-2012).exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Web Browser (HW-RGM-2012) - build 10.5\Web Browser (HW-RGM-2012)\obj\x86\Debug\Web Browser (HW-RGM-2012).pdb

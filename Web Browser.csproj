@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BC501EDC-451E-4783-91CA-69166218423D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Web_Browser__HW_RGM_2012_</RootNamespace>
+    <AssemblyName>Web Browser %28HW-RGM-2012%29</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>internet_explorer-1.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addfav.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addfav.Designer.cs">
+      <DependentUpon>addfav.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editfav.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editfav.Designer.cs">
+      <DependentUpon>editfav.cs</DependentUpon>
+    </Compile>
+    <Compile Include="favorites.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="favorites.Designer.cs">
+      <DependentUpon>favorites.cs</DependentUpon>
+    </Compile>
+    <Compile Include="browser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="browser.Designer.cs">
+      <DependentUpon>browser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="settings.Designer.cs">
+      <DependentUpon>settings.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="addfav.resx">
+      <DependentUpon>addfav.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editfav.resx">
+      <DependentUpon>editfav.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="favorites.resx">
+      <DependentUpon>favorites.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="browser.resx">
+      <DependentUpon>browser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="settings.resx">
+      <DependentUpon>settings.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\86 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\old_go_previous.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stop.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hyperlink_internet_search.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\glass.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hp_printer.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\glass1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mail_find.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hp_printer1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\favorites.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\next_sail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\favorite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="internet_explorer-1.ico" />
+    <None Include="Resources\document_save.png" />
+    <None Include="Resources\view_fullscreen %281%29.png" />
+    <None Include="Resources\view_fullscreen.png" />
+    <None Include="Resources\button_cancel1.png" />
+    <None Include="Resources\home-3.png" />
+    <None Include="Resources\history_clear-1.png" />
+    <None Include="Resources\web_find.png" />
+    <None Include="Resources\bookmark_new.png" />
+    <None Include="Resources\toolbar_new_folder.png" />
+    <None Include="Resources\fileclose.png" />
+    <None Include="Resources\pencil.png" />
+    <None Include="Resources\previos_sail-1.png" />
+    <None Include="Resources\html.png" />
+    <None Include="Resources\home-2.png" />
+    <None Include="Resources\home-1.png" />
+    <None Include="Resources\home.png" />
+    <None Include="Resources\view_refresh.png" />
+    <None Include="Resources\url_history.png" />
+    <None Include="Resources\system_search.png" />
+    <None Include="Resources\star-1.png" />
+    <None Include="Resources\search_artdesigner_lv.png" />
+    <None Include="Resources\search.png" />
+    <None Include="Resources\right3green.png" />
+    <None Include="Resources\refresh.png" />
+    <None Include="Resources\printer-2.png" />
+    <None Include="Resources\printer-1.png" />
+    <None Include="Resources\printer1.png" />
+    <None Include="Resources\printer_paper.png" />
+    <None Include="Resources\printer_on.png" />
+    <None Include="Resources\printer.png" />
+    <None Include="Resources\player_time_256.png" />
+    <None Include="Resources\mail_forward.png" />
+    <None Include="Resources\left.png" />
+    <None Include="Resources\internet_explorer-1.png" />
+    <None Include="Resources\internet_explorer.png" />
+    <None Include="Resources\hp_printer-2.png" />
+    <None Include="Resources\hp_printer-1.png" />
+    <None Include="Resources\hp_printer.png" />
+    <None Include="Resources\gnome_go_next.png" />
+    <None Include="Resources\glass.png" />
+    <None Include="Resources\forward_2.png" />
+    <None Include="Resources\forward.png" />
+    <None Include="Resources\dialog_cancel-1.png" />
+    <None Include="Resources\dialog_cancel.png" />
+    <None Include="Resources\dialog_cancel copy.png" />
+    <None Include="Resources\close.png" />
+    <None Include="Resources\close copy.png" />
+    <None Include="Resources\check.png" />
+    <None Include="Resources\button_cancel.png" />
+    <None Include="Resources\bookmark-2.png" />
+    <None Include="Resources\bookmark-1.png" />
+    <None Include="Resources\bookmark_file.png" />
+    <None Include="Resources\bookmark.png" />
+    <None Include="Resources\back_2.png" />
+    <None Include="Resources\apple_time_machine.png" />
+    <None Include="Resources\agt_stop1.png" />
+    <None Include="Resources\8.png" />
+    <None Include="Resources\0007_tick.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
